@@ -4,9 +4,9 @@
 
 OPENCV_VERSION=4.4
 # Jetson AGX Xavier
-#ARCH_BIN=7.2
+ARCH_BIN=7.2
 # Jetson TX2
-ARCH_BIN=6.2
+#ARCH_BIN=6.2
 # Jetson TX1
 # ARCH_BIN=5.3
 INSTALL_DIR=/usr/local
